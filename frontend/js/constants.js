@@ -1,7 +1,7 @@
 const contractAddress = "0x36A32904C150249b888eDE0ea3b3B5E9775cad73"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "GORILLAS!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = "Gorillabits is a NFT collection of 1000 unique and randomly generated gorillas. Gorillabits aren't just awesome gorilla PFPs, you also become part of our community of wholesome, supportive, gorilla loving people and gain access to all of our planned future development and utility.";
 const h1_presale_coming_soon = "GORILLABYTES COMING SOON!!";
